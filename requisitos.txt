@@ -1,0 +1,5 @@
+click == 6,7
+frasco == 1.0
+é perigoso == 0,24
+jinja2 == 2.10.1
+werkzeug == 0.15.3
